@@ -1,0 +1,15 @@
+C:\Users\Dell\source\Test\lap1\lap1\bin\Debug\net6.0\lap1.exe
+C:\Users\Dell\source\Test\lap1\lap1\bin\Debug\net6.0\lap1.deps.json
+C:\Users\Dell\source\Test\lap1\lap1\bin\Debug\net6.0\lap1.runtimeconfig.json
+C:\Users\Dell\source\Test\lap1\lap1\bin\Debug\net6.0\lap1.dll
+C:\Users\Dell\source\Test\lap1\lap1\bin\Debug\net6.0\lap1.pdb
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.AssemblyInfo.cs
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.dll
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\refint\lap1.dll
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.pdb
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\lap1.genruntimeconfig.cache
+C:\Users\Dell\source\Test\lap1\lap1\obj\Debug\net6.0\ref\lap1.dll
