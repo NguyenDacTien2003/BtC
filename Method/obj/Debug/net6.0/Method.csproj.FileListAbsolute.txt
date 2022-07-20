@@ -1,0 +1,5 @@
+C:\Users\Dell\source\Test\Task10\Method\obj\Debug\net6.0\Method.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\Task10\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\Task10\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\Task10\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+C:\Users\Dell\source\Test\Task10\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache

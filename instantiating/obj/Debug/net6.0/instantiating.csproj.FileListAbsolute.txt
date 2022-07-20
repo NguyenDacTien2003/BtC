@@ -1,0 +1,5 @@
+C:\Users\Dell\source\Test\Task10\instantiating\obj\Debug\net6.0\instantiating.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\Task10\instantiating\obj\Debug\net6.0\instantiating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\Task10\instantiating\obj\Debug\net6.0\instantiating.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\Task10\instantiating\obj\Debug\net6.0\instantiating.AssemblyInfo.cs
+C:\Users\Dell\source\Test\Task10\instantiating\obj\Debug\net6.0\instantiating.csproj.CoreCompileInputs.cache

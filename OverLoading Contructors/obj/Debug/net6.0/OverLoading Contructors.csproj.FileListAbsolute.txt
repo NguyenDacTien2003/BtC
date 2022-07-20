@@ -1,0 +1,15 @@
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\bin\Debug\net6.0\OverLoading Contructors.exe
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\bin\Debug\net6.0\OverLoading Contructors.deps.json
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\bin\Debug\net6.0\OverLoading Contructors.runtimeconfig.json
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\bin\Debug\net6.0\OverLoading Contructors.dll
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\bin\Debug\net6.0\OverLoading Contructors.pdb
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.AssemblyInfo.cs
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.dll
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\refint\OverLoading Contructors.dll
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.pdb
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\OverLoading Contructors.genruntimeconfig.cache
+C:\Users\Dell\source\Test\Task10\OverLoading Contructors\obj\Debug\net6.0\ref\OverLoading Contructors.dll

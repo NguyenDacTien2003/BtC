@@ -1,0 +1,15 @@
+C:\Users\Dell\source\Test\Task10\Destructor\bin\Debug\net6.0\Destructor.exe
+C:\Users\Dell\source\Test\Task10\Destructor\bin\Debug\net6.0\Destructor.deps.json
+C:\Users\Dell\source\Test\Task10\Destructor\bin\Debug\net6.0\Destructor.runtimeconfig.json
+C:\Users\Dell\source\Test\Task10\Destructor\bin\Debug\net6.0\Destructor.dll
+C:\Users\Dell\source\Test\Task10\Destructor\bin\Debug\net6.0\Destructor.pdb
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.dll
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\refint\Destructor.dll
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.pdb
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+C:\Users\Dell\source\Test\Task10\Destructor\obj\Debug\net6.0\ref\Destructor.dll
