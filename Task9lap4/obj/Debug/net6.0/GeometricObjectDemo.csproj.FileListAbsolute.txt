@@ -1,0 +1,15 @@
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\bin\Debug\net6.0\GeometricObjectDemo.exe
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\bin\Debug\net6.0\GeometricObjectDemo.deps.json
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\bin\Debug\net6.0\GeometricObjectDemo.runtimeconfig.json
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\bin\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\bin\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfo.cs
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\refint\GeometricObjectDemo.dll
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\GeometricObjectDemo.genruntimeconfig.cache
+C:\Users\Dell\source\Test\Task9lap4\Task9lap4\obj\Debug\net6.0\ref\GeometricObjectDemo.dll
